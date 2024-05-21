@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hans</h1>
-<h3 align="center">A passionate 15 y/o programmer/developer in the US 🇺🇸.</h3>
+<h3 align="center">A passionate programmer/developer in the US 🇺🇸.</h3>
 
 - 🌱 I’m currently learning **React.js, C++**
 
